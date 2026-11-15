@@ -11,7 +11,7 @@ The home of [SkyHanni](https://github.com/SkyHanniStudios/SkyHanni), a Fabric mo
 | [SkyHanni-REPO](https://github.com/SkyHanniStudios/SkyHanni-REPO) | The data the mod loads on startup |
 | [SkyHanniDevelopment](https://github.com/SkyHanniStudios/SkyHanniDevelopment) | An IntelliJ plugin that helps when working on the SkyHanni code |
 | [SkyHanniChangelogBuilder](https://github.com/SkyHanniStudios/SkyHanniChangelogBuilder) | Builds the SkyHanni changelogs from pull requests |
-| [DiscordBot](https://github.com/SkyHanniStudios/DiscordBot) | The bot on the SkyHanni Discord |
+| [SkyHanniDiscordBot](https://github.com/SkyHanniStudios/SkyHanniDiscordBot) | The bot on the SkyHanni Discord |
 
 ## Links
 
